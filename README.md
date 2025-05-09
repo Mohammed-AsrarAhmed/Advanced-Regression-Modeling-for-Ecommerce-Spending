@@ -10,21 +10,7 @@ This project predicts yearly customer spending on an ecommerce platform using fe
 *The model helps a company understand what factors most influence spending
 
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-  .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-  .dataframe thead th {
-        text-align: right;
-    }
-</style>
+ 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
