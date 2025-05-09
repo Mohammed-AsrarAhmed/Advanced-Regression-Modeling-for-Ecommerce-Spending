@@ -1,14 +1,7 @@
 # Advanced-Regression-Modeling-for-Ecommerce-Spending
 This project predicts yearly customer spending on an ecommerce platform using features like session length, app and website usage, and membership duration. It applies Linear, Ridge, Lasso, and Polynomial Regression models with preprocessing and evaluation. Visualizations and error analysis help assess and improve model performance for accurate predictions.
 
-*Predicts how much a customer will spend in a year (Yearly Amount Spent)
-
-*Based on inputs: session length, app time, website time, and membership length
-
-*You use four regression techniques and pick the best-performing one based on metrics like R² and RMSE
-
 *The model helps a company understand what factors most influence spending
-
 
  
 <table border="1" class="dataframe">
